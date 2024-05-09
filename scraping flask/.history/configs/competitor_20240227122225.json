@@ -1,0 +1,17 @@
+{
+    "sprouts": 
+            {"store": "https://shop.sprouts.com/api/v2/store_products?ads_enabled=true&ads_pagination_improvements=true&allow_autocorrect=true&limit=10&offset=0&search_provider=ic&search_term=",
+            "cat_url": "https://shop.sprouts.com/api/v2/categories/store/2",
+            "cookie": "_gcl_au=1.1.1424297023.1706679651; BVBRANDID=eb4c9c2f-fba4-4d90-b189-2e2520394ba9; ..."
+           },
+    "wegmans":{
+        "store": "https://shop.wegmans.com/api/v2/store_products?limit=60&search_term=",
+        "cat_url": "https://shop.wegmans.com/api/v2/categories/store/2",
+        "cookie": "fbp=fb.1.1706678089289.1157664646; ..."
+},
+    "tfm":{
+        "store": "https://shop.thefreshmarket.com/api/v2/store_products?ads_enabled=true&ads_pagination_improvements=true&limit=60&offset=0&page=1&prophetScorer=frequency&sort=rank&allow_autocorrect=true&search_is_autocomplete=false&search_provider=ic&search_term=",
+        "cat_url": "https://shop.thefreshmarket.com/api/v2/categories/store/2",
+        "cookie": "osano_consentmanager_uuid=8811aa20-894f-4d21-9255-5ce769ed3d51; ..."        
+    }
+}
